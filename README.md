@@ -10,7 +10,7 @@
 
 ### Languages
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limkim0530&exclude_repo=newEdu&langs_count=8&layout=compact">
+<img width="450" src="https://github-readme-stats-jet-five-47.vercel.app/api/top-langs/?username=limkim0530&langs_count=8&layout=compact">
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" /></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" /></code>
