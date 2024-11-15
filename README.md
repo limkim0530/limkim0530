@@ -6,7 +6,7 @@
 
 ### Stats
 
-<img width="450" src="https://streak-stats.demolab.com/?user=limkim0530&theme=vue&border=E5E3E3"/>
+<img width="450" src="https://github-readme-streak-stats-delta-ochre.vercel.app/?user=limkim0530&theme=vue&border=E5E3E3"/>
 
 ### Languages
 
